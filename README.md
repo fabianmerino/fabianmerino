@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on TGI Ingenieria
+- 🌱 I’m currently learning Spring Ecosystem (Java)
+- 💬 Ask me about IOT tecnologies
+
 <!--
 **fabianmerino/fabianmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=fabianmerino&show_icons=true/" /></div>
