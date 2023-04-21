@@ -18,4 +18,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=fabianmerino&show_icons=true/" /></div>
+
+---
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=fabianmerino&column=7"/>
+</div>
+
+---
+
+<div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fabianmerino&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmerino&layout=compact" />
+</div>
+
+---
