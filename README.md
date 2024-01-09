@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=fabianmerino&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fabianmerino&column=5"/>
 </div>
 
 ---
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=fabianmerino&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmerino&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmerino&layout=compact&theme=tokyonight&count_private=true" />
 </div>
 
 ---
