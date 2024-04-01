@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+[![wakatime](https://wakatime.com/badge/user/018bf480-9dac-4e37-b1b2-1b1b2a669bda.svg)](https://wakatime.com/@018bf480-9dac-4e37-b1b2-1b1b2a669bda3)
+
+<img src="https://wakatime.com/share/@fabianmerino/2c960fd9-92ac-45f0-8154-1e91922ea6e4.svg" height="400px" />
